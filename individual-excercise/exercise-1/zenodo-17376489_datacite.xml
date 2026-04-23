@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+    <identifier identifierType="DOI">10.5281/zenodo.17376489</identifier>
+    <creators>
+        <creator>
+        <creatorName nameType="Personal">Aritonang Rajagukguk, Sabar</creatorName>
+        <givenName>Sabar</givenName>
+        <familyName>Aritonang Rajagukguk</familyName>
+        <affiliation affiliationIdentifier="https://ror.org/03zmf4s77" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">Binus University</affiliation>
+        </creator>
+    </creators>
+    <titles>
+        <title>Gen Z Influencer Authenticity &amp; Social Commerce Dataset</title>
+     </titles>
+     <publisher>Zenodo</publisher>
+     <publicationYear>2025</publicationYear>
+     <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+    <subjects>
+        <subject subjectScheme="OECD FOS">Economics and business</subject>
+        <subject>Influencer</subject>
+        <subject>Social Media</subject>
+        <subject>Marketing</subject>
+        <subject>Consumer Behavior</subject>
+    </subjects>
+    <contributors>
+        <contributor contributorType="Other">
+            <contributorName nameType="Personal">Mueller, Kay (University purposes: xml demonstration)</contributorName>
+            <givenName>Kay</givenName>
+            <familyName>Mueller</familyName>
+            <affiliation affiliationIdentifier="https://ror.org/00g07sz63" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">SRH Hochschule Heidelberg</affiliation>
+        </contributor>
+    </contributors>
+    <language>en</language>
+    <version>1</version>
+    <rightsList>
+        <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    </rightsList>
+    <descriptions>
+        <description xml:lang="en" descriptionType="Abstract">This dataset combines a cross-sectional online survey with three-month behavioral tracking for 500 Indonesian Gen Z consumers (ages 18&#x2013;26) sampled across major cities (e.g., Jakarta, Surabaya, Medan, Makassar, Bandung). It includes demographics (age, gender, education, income), social media intensity, platform used (Instagram/TikTok), influencer tier (micro/macro), and validated multi-item constructs: Perceived Authenticity (12 items), Trust in Influencer (8), Parasocial Relationships (10), Purchase Intention (4), plus antecedents such as Influencer-Product Fit and Content Quality. Behavioral fields capture exposures, purchase count, and purchase value (IDR), alongside a purchase behavior index linking post-exposure transactions to influencer content. These data support the study&#x2019;s SEM analyses showing authenticity&#x2019;s direct and mediated effects on intention and actual purchasing among Indonesian Gen Z in social commerce contexts.</description>
+    </descriptions>
+</resource>
