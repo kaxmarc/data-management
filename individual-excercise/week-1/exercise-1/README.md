@@ -1,3 +1,5 @@
+Created/edited by Kay Müller
+
 # Week 1 – Exercise 1 – Individual – Metadata Creation
 
 Task
